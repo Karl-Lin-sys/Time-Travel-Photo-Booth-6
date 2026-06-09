@@ -1,0 +1,10 @@
+{
+  "name": "Time Travel Photo Booth",
+  "description": "Takes your photo and inserts your face into various historical scenes using AI image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
